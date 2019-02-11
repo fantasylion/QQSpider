@@ -4,7 +4,9 @@ QQSpider Fork from https://github.com/LiuXingMing/QQSpider QQSpider2
 # 使用说明：
 
 开发语言：Python 3.7 
+
 Redis:3.2.100
+
 Python编辑器：PyCharm 2018.3.4 (Professional Edition)
 
 ## 启动前配置：
