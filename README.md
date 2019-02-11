@@ -24,6 +24,9 @@ Redis:3.2.100
 ## 查看数据
 到官网下载 [MongoDB Compass Community](https://www.mongodb.com/download-center/community)，连接 MongoDB 65.49.204.74:27017
 
+如下图：
+![截图](https://github.com/fantasylion/QQSpider/blob/master/Document/20190211172713.png?raw=true)
+
 ## 数据库说明：
 QQSpider主要爬取QQ用户的说说、日志、朋友关系、个人信息。 
 数据库分别设置 Mood、Blog、Friend、Information 四张表。
