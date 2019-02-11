@@ -1,0 +1,8 @@
+[INFO  - 2019-02-11T08:53:05.917Z] GhostDriver - Main - running on port 58882
+[INFO  - 2019-02-11T08:53:07.977Z] Session [73c17710-2dda-11e9-8c9f-65756c25a6f5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1","webSecurityEnabled":true}
+[INFO  - 2019-02-11T08:53:07.977Z] Session [73c17710-2dda-11e9-8c9f-65756c25a6f5] - page.customHeaders:  - {}
+[INFO  - 2019-02-11T08:53:07.978Z] Session [73c17710-2dda-11e9-8c9f-65756c25a6f5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"}
+[INFO  - 2019-02-11T08:53:07.978Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 73c17710-2dda-11e9-8c9f-65756c25a6f5
+[ERROR - 2019-02-11T08:53:09.327Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1549875189269
+
+  phantomjs://platform/console++.js:263 in error
