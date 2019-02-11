@@ -3,11 +3,11 @@ QQSpider Fork from https://github.com/LiuXingMing/QQSpider QQSpider2
 
 # 使用说明：
 
-开发语言：Python 3.7 
+开发语言：[Python 3.7](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe)
 
-Redis:3.2.100
+[Redis:3.2.100](https://github.com/MSOpenTech/redis/releases/download/win-3.2.100/Redis-x64-3.2.100.msi)
 
-Python编辑器：PyCharm 2018.3.4 (Professional Edition)
+Python编辑器：[PyCharm 2018.3.4 (Professional Edition)](https://www.mongodb.com/download-center/community)
 
 ## 启动前配置：
 
