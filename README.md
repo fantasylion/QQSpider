@@ -4,13 +4,15 @@ QQSpider Fork from https://github.com/LiuXingMing/QQSpider QQSpider2
 # 使用说明：
 
 开发语言：Python 3.7 
+Redis:3.2.100
+
 
 ## 启动前配置：
 
-需要安装的软件：python、Redis、MongoDB（Redis和MongoDB都是NoSQL，服务启动后能连接上就行，不需要建表什么的）。
-需要安装的Python模块：requests、BeautifulSoup、multiprocessing、selenium、itertools、redis、pymongo。
-我们登陆QQ要使用到phantomJS（下载地址：http://phantomjs.org/download.html），下载完将里面的 phantomjs.exe 解压到python目录下即可。
-本地下载 redis 启动默认端口
+* 需要安装的软件：python 3.X版本、Redis（Redis服务启动后能连接上就行，不需要建表什么的）、Mongo 连接的远程的应用不需要本地安装。
+* 需要安装的Python模块：requests、BeautifulSoup、multiprocessing、selenium、itertools、redis、pymongo。
+* 我们登陆QQ要使用到phantomJS（下载地址：http://phantomjs.org/download.html），下载完将里面的 phantomjs.exe 解压到python目录下即可。
+
 
 ## 启动程序：
 
