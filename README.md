@@ -65,14 +65,14 @@ URL：日志的链接地址。
 isTransfered：此日志是否属于转发来的。
 ```
 
-__Friend 表： __
+__Friend 表：__
 ```
 _id：采用 QQ 作为唯一标识。 
 Num：此QQ的好友数（仅统计已抓取到的）。 
 Fx：朋友的QQ号，x代表第几位好友，x从1开始逐渐迭加。
 ```
 
-__Information 表： __
+__Information 表：__
 ```
 _id：采用 QQ 作为唯一标识。 
 Age：年龄。 
